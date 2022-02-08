@@ -1,4 +1,4 @@
-# Revenue Analysis Dashboard (Power BI) 
+# Revenue Analysis (Power BI) 
 
 #
 
